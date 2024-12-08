@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ch_name_cardview">Nombre del personaje</string>
+    <string name="img_description">Imagen de un personaje del famoso videojuego Marios Bros.</string>
+    <string name="ch_name_detail">Nombre del personaje</string>
+    <string name="ch_description_detail">Descripción del personaje</string>
+    <string name="ch_skill_detail">Habilidad especial del personaje</string>
+    <string name="ch_list">Lista de personajes</string>
+    <string name="ch_details">Detalles del personaje</string>
+    <string name="menu_title">Acerca de</string>
+    <string name="menu_message">Aplicación desarrollada por Alejandro Palomeque Segura.</string>
+    <string name="accept">Aceptar</string>
+    <string name="switch_title">Traducir</string>
+    <string name="open_menu">Abrir Menu</string>
+    <string name="close_menu">Cerra Menu</string>
+    <string name="icon_description">Imagen de Mario</string>
+    <string name="back_char_list">Volver al listado de personajes</string>
+    <string name="change_lang">Cambiar idioma</string>
+    <string name="translate">Change app language</string>
+    <string name="change_en">Idioma cambiado a ingles</string>
+    <string name="change_sp">Idioma cambiado a español</string>
+    <string name="toast_msg">"Has seleccionado al personaje: "</string>
+    <string name="snack_msg">¡Bienvenido al mundo de Mario!</string>
+    <string name="mario_skill">Supersalto</string>
+    <string name="mario_desc">Heroe del videojuego</string>
+
+    <string name="luigi_skill">Lanza bolas de fuego</string>
+    <string name="luigi_desc">Lanza bolas de fuego</string>
+    <string name="yoshi_skill">Fiel compañero de Mario y Luigi</string>
+    <string name="peach_skill">Flota en el aire</string>
+    <string name="peach_desc">Princesa del Reino Champiñon</string>
+    <string name="toadette_skill">Doble salto</string>
+    <string name="toadette_desc">Hermana menor de Toad</string>
+
+    <string name="toad_skill">Doble salto</string>
+    <string name="toad_desc">Guardaspaldas de la princesa Peach</string>
+ <string name="wario_skill">Superfuerza</string>
+    <string name="wario_desc">Primo malvado de Mario</string>
+
+    <string name="bowser_desc">Gran enemigo de Mario</string>
+
+    <string name="bowser_skill">Lanzallamas</string>
+    <string name="yoshi_desc">Fiel compañero de Mario y Luigi</string>
+</resources>

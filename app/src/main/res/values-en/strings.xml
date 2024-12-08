@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ch_name_cardview">Character name</string>
+    <string name="img_description">Characters image form famous video game Mario Bros.</string>
+    <string name="ch_name_detail">Characters name</string>
+    <string name="ch_description_detail">Character description</string>
+    <string name="ch_skill_detail">Character special skill</string>
+    <string name="ch_list">Characters list</string>
+    <string name="ch_details">Character details</string>
+    <string name="menu_title">About</string>
+    <string name="menu_message">App developed by Alejandro Palomeque Segura. Version 1.0</string>
+    <string name="accept">Accept</string>
+    <string name="switch_title">Translate</string>
+    <string name="open_menu">Open Menu</string>
+    <string name="close_menu">Close Menu</string>
+    <string name="icon_description">Mario picture</string>
+    <string name="back_char_list">Back to characters list</string>
+    <string name="change_lang">Change language</string>
+    <string name="translate">Change app language</string>
+    <string name="change_en">Language switched to english</string>
+    <string name="change_sp">Language switched to spanish</string>
+    <string name="toast_msg">"Character selected: "</string>
+    <string name="snack_msg">Welcome to Mario World!!</string>
+
+</resources>

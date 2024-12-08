@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+<!--Recyclerview-->
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/character_recyclerview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingTop="?attr/actionBarSize"/><!--con esto fijamos la separacio respecto a la
+        barra, indistintamente de su tamaño pues va en relacion a esta-->
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

@@ -1,0 +1,24 @@
+<resources>
+    <string name="ch_name_cardview">Nombre del personaje</string>
+    <string name="img_description">Imagen de un personaje del famoso videojuego Marios Bros.</string>
+    <string name="ch_name_detail">Nombre del personaje</string>
+    <string name="ch_description_detail">Descripción del personaje</string>
+    <string name="ch_skill_detail">Habilidad especial del personaje</string>
+    <string name="ch_list">Lista de personajes</string>
+    <string name="ch_details">Detalles del personaje</string>
+    <string name="menu_title">Acerca de...</string>
+    <string name="menu_message">Aplicación desarrollada por Alejandro Palomeque Segura.\nVersión 1.0."</string>
+    <string name="accept">Aceptar</string>
+    <string name="switch_title">Traducir</string>
+    <string name="open_menu">Abrir Menu</string>
+    <string name="close_menu">Cerra Menu</string>
+    <string name="icon_description">Imagen de Mario</string>
+    <string name="back_char_list">Volver al listado de personajes</string>
+    <string name="change_lang">Cambiar idioma</string>
+    <string name="app_name" translatable="false">Tarea 2 PMDM</string>
+    <string name="translate">Cambiar el idioma</string>
+    <string name="change_en">Idioma cambiado a ingles</string>
+    <string name="change_sp">Idioma cambiado a español</string>
+    <string name="toast_msg">Has seleccionado al personaje: </string>
+    <string name="snack_msg">¡Bienvenido al mundo de Mario!</string>
+</resources>
