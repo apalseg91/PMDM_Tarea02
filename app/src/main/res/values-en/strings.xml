@@ -21,5 +21,30 @@
     <string name="change_sp">Language switched to spanish</string>
     <string name="toast_msg">"Character selected: "</string>
     <string name="snack_msg">Welcome to Mario World!!</string>
+    <string name="mario_skill">Superjumping</string>
+    <string name="mario_desc">VideoGame Heroe</string>
+    <string name="luigi_skill">Fireballs throwing</string>
+    <string name="luigi_desc">Marios brother</string>
+    <string name="yoshi_skill">Mario and Luigis loyal partner</string>
+    <string name="peach_skill">Floatting</string>
+    <string name="peach_desc">Princess of Mushrrom Kingdom</string>
+    <string name="toadette_skill">Double jumping</string>
+    <string name="toadette_desc">Toads litlle sister</string>
+    <string name="toad_skill">Double jumping</string>
+    <string name="toad_desc">Peach princess guardian</string>
+    <string name="wario_skill">Superstrength</string>
+    <string name="wario_desc">Marios evil cousin</string>
+    <string name="bowser_desc">Marios great enemy</string>
+    <string name="bowser_skill">Flamethrowing</string>
+    <string name="yoshi_desc">Marios loyal partner</string>
+    <string name="mario">Mario</string>
+    <string name="luigi">Luigi</string>
+    <string name="peach">Peach</string>
+    <string name="yoshi">Yoshi</string>
+    <string name="toadette">Toadette</string>
+    <string name="toad">Toad</string>
+    <string name="wario">Wario</string>
+    <string name="bowser">Bowser</string>
+
 
 </resources>

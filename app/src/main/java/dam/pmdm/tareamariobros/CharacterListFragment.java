@@ -47,21 +47,29 @@ public class CharacterListFragment extends Fragment {
     //metodo que carga la info de los personajes
     private void loadCharacters(){
         characters = new ArrayList<>();
-        characters.add(new CharacterData("Mario","SuperSalto","Heroe del videojuego",R.drawable.mario));
+        characters.add(new CharacterData(getString(R.string.mario),(getString(R.string.mario_skill)),
+                (getString(R.string.mario_desc)),R.drawable.mario));
 
-        characters.add(new CharacterData("Luigi","Lanza bolas de fuego","Hermano del heroe del videojuego",R.drawable.luigi));
+        characters.add(new CharacterData(getString(R.string.luigi),(getString(R.string.luigi_skill)),
+                (getString(R.string.luigi_desc)),R.drawable.luigi));
 
-        characters.add(new CharacterData("Peach","Flota en el aire","Princesa del reino Champinon",R.drawable.princesapeach));
+        characters.add(new CharacterData(getString(R.string.peach),(getString(R.string.peach_skill)),
+                (getString(R.string.peach_desc)),R.drawable.princesapeach));
 
-        characters.add(new CharacterData("Yoshi","Lanza Caparazones","Fiel compañer de Mario y Luigi",R.drawable.yoshi_));
+        characters.add(new CharacterData(getString(R.string.yoshi),(getString(R.string.yoshi_skill)),
+                (getString(R.string.yoshi_desc)),R.drawable.yoshi_));
 
-        characters.add(new CharacterData("Toadette","DobleSalto","Hermana menor de Toad",R.drawable.toadette_));
+        characters.add(new CharacterData(getString(R.string.toadette),(getString(R.string.toadette_skill)),
+                (getString(R.string.toadette_desc)),R.drawable.toadette_));
 
-        characters.add(new CharacterData("Toad","Flota al saltar","Heroe del reino Champinon",R.drawable.toad_));
+        characters.add(new CharacterData(getString(R.string.toad),(getString(R.string.toadette_skill)),
+                (getString(R.string.toad_desc)),R.drawable.toad_));
 
-        characters.add(new CharacterData("Wario","SuperFuerza","El primo malvado de Mario",R.drawable.wario_));
+        characters.add(new CharacterData(getString(R.string.wario),(getString(R.string.wario_skill)),
+                (getString(R.string.wario_desc)),R.drawable.wario_));
 
-        characters.add(new CharacterData("Bowser","Lanzallamas","El gran enemigo de Mario",R.drawable.bowser_));
+        characters.add(new CharacterData(getString(R.string.bowser),(getString(R.string.bowser_skill)),
+                (getString(R.string.bowser_desc)),R.drawable.bowser_));
     }
 
     @Override

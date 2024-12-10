@@ -41,4 +41,12 @@
 
     <string name="bowser_skill">Lanzallamas</string>
     <string name="yoshi_desc">Fiel compañero de Mario y Luigi</string>
+    <string name="mario">Mario</string>
+    <string name="luigi">Luigi</string>
+    <string name="peach">Peach</string>
+    <string name="yoshi">Yoshi</string>
+    <string name="toadette">Toadette</string>
+    <string name="toad">Toad</string>
+    <string name="wario">Wario</string>
+    <string name="bowser">Bowser</string>
 </resources>
