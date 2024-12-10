@@ -16,7 +16,8 @@ import com.google.android.material.snackbar.Snackbar;
 import java.util.ArrayList;
 
 import dam.pmdm.tareamariobros.databinding.CharacterListFragmentBinding;
-import dam.pmdm.tareamariobros.CharacterData;
+
+
 
 public class CharacterListFragment extends Fragment {
     private CharacterListFragmentBinding binding;
